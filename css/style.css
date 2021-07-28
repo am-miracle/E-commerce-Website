@@ -438,9 +438,11 @@ p{color:#8a8a8a;}
         font-size: 1.2rem;
         font-family: var(--font-family-secondary);
     }
-
 }
-
+/* featured */
+.title{
+    
+}
 /* brands */
 .small-container{
     max-width: 1080px;
