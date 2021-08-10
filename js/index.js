@@ -66,3 +66,5 @@ gsap.from('.head-content h2', {opacity: 0, duration: 1, delay: 2, y: -50 });
 gsap.from('.head-content h1', {opacity: 0, duration: 1, delay: 2.5, y: -45 });
 gsap.from('.head-content p', {opacity: 0, duration: 1, delay: 3, x: 10 });
 gsap.from('.head-content a', {opacity: 0, duration: 1, delay: 3.5, y: 50 });
+
+
